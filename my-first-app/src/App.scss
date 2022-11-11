@@ -1,0 +1,8 @@
+@import './scss/index.scss';
+.app{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  h1{
+    color: $primary_color;
+    font-size: 2.5rem;
+  }
+}
